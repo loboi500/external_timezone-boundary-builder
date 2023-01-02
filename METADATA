@@ -1,18 +1,3 @@
-name: "timezone-boundary-builder"
-description:
-    "A tool to extract data from Open Street Map (OSM) to build the boundaries "
-    "of the world's timezones."
-
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://github.com/evansiroky/timezone-boundary-builder"
-  }
-  url {
-    type: GIT
-    value: "https://github.com/evansiroky/timezone-boundary-builder.git"
-  }
-  version: "2019b"
-  last_upgrade_date { year: 2020 month: 1 day: 14 }
-  license_type: NOTICE
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:086815c12e8d47a363062a04ea7fb7f6386752aed7687d727a88ad43f654a2b8
+size 470
